@@ -115,7 +115,7 @@ button{
    
 .footer{
     width: 100%;
-    height: 100px;
+    height: 190px;
     background-color: black;
 }
 .all::after{
@@ -161,10 +161,10 @@ button{
     }
     #b1{
         
-        margin-left: 40px;
+        margin-left: 60px;
     }
     .block{
-        margin-left: 40px;
+        margin-left: 60px;
         margin-top: 20px;
         margin-bottom: 0px;
         
